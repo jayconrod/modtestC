@@ -1,3 +1,3 @@
-module github.com/jayconrod/modtestC
+module example.com/jay/C
 
 go 1.13
